@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@ngxs/devtools-plugin": "^3.7.1",
+    "@ngxs/logger-plugin": "^3.7.1",
+    "@ngxs/store": "^3.7.1",
+    "rxjs": "^6.6.6",
+    "rxjs-compat": "^6.6.6",
+    "rxjs-observable": "^0.0.7"
+  }
+}
